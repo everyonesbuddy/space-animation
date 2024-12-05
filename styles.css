@@ -140,7 +140,7 @@ body {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
   transform: scale(0);
   opacity: 0;
-  animation: explode 0.8s forwards, fadeIn 8s ease-in;
+  animation: explode 0.8s forwards, fadeIn 5s ease-in;
   animation-delay: 0.8s; /* Delay the fade-in animation for a smoother effect */
 }
 
